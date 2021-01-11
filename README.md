@@ -9,4 +9,4 @@ facebook user mango
 DB login fakebook pass 
 FB3C95PHuJZWYA7hfakebook-mongoDB
 
--pusher stop working try too fix
+#The ability to send an image straight to the database, the database picks up any changes using a pusher
